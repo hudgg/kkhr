@@ -1,6 +1,6 @@
 #!/bin/sh
 
-UUID=3308def5-bca9-4e8f-a144-e0304a43191c
+UUID=33lgdecoj025
 WSPATH=/htak
 PORT=80
 
